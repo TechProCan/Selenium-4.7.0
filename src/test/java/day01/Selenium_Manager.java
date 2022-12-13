@@ -23,6 +23,6 @@ public class Selenium_Manager {
         
         
         
-        //erol beyin
+        //can bey
     }
 }

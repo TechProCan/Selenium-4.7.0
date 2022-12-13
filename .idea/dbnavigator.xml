@@ -20,9 +20,7 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="2689f987-9dcc-4b27-8be8-548385cb9890" object-ref="schemas/public/tables/room" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="2689f987-9dcc-4b27-8be8-548385cb9890" dataset="public.room" active-filter-id="0d6e71cb-b2c9-41f6-9013-2326f3190059">
