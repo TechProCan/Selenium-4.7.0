@@ -18,5 +18,11 @@ public class Selenium_Manager {
         driver1.get("https://www.techproeducation.com");
 
 
+        
+        
+        
+        
+        
+        //erol beyin
     }
 }
